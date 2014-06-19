@@ -10,7 +10,7 @@ Phusion's Ubuntu based base image has become a popular starting point for many D
 - Cron daemon for running scheduled tasks
 - *runit* for service supervision and management
 
-The centos-baseimage does those things as well but built on top of the Centos Linux distribution.
+The **centos-baseimage** does those things as well but built on top of the Centos Linux distribution.
 
 Rather than reproduce the same user documentation here, you can use the [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) repository documentation as your guide for configuring and using the base image.
 
