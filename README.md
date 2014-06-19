@@ -1,7 +1,7 @@
 Centos Base Image
 =================
 
-An enhanced Centos base image for Docker based on the improvements from [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker).
+An enhanced Centos base image for Docker based on the features from [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker).
 
 Phusion's Ubuntu based base image has become a popular starting point for many Docker images. That base image focuses on correcting some short comings evident in many Docker base images:
 - Proper init system, including the proper shutdown of contained processes
