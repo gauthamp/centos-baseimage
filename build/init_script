@@ -9,7 +9,7 @@ LOG_LEVEL_WARN  = 1
 LOG_LEVEL_INFO  = 2
 LOG_LEVEL_DEBUG = 3
 
-log_level = None
+log_level = LOG_LEVEL_DEBUG
 
 class AlarmException(Exception):
 	pass

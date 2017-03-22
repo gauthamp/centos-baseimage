@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /usr/sbin/crond 
+exec /usr/sbin/crond -n 

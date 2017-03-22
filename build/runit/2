@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo Running services in /etc/service
+echo Runit running services in /etc/service
 runsvdir -P /etc/service
